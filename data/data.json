@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "안녕하세요",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "text": "신기하다",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "text": "안녕히계세요",
+      "checked": true
+    }
+  ]
+}
